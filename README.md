@@ -1,4 +1,6 @@
-## React App to connect to SF using Connected App
+## React App to connect to SF 
+-
+-
 
 
 ## Current tasks
